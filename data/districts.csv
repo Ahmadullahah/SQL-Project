@@ -1,0 +1,395 @@
+district_id,adm2_code,district_name,province_id
+1,AF0101,Kabul,1
+2,AF0102,Paghman,1
+3,AF0103,Chahar Asyab,1
+4,AF0104,Bagrami,1
+5,AF0105,Deh Sabz,1
+6,AF0106,Shakar Dara,1
+7,AF0107,Musahi,1
+8,AF0108,Mir Bacha Kot,1
+9,AF0109,Khak-e-Jabbar,1
+10,AF0110,Kalakan,1
+11,AF0111,Guldara,1
+12,AF0112,Farza,1
+13,AF0113,Estalef,1
+14,AF0114,Qara Bagh,1
+15,AF0115,Surobi,1
+16,AF0201,Mahmood-e-Raqi,2
+17,AF0202,Hisa-e-Duwum-e-Kohistan,2
+18,AF0203,Koh Band,2
+19,AF0204,Hisa-e-Awal-e-Kohistan,2
+20,AF0205,Nijrab,2
+21,AF0206,Tagab,2
+22,AF0207,Alasay,2
+23,AF0301,Charikar,3
+24,AF0302,Bagram,3
+25,AF0303,Shinwari,3
+26,AF0304,Sayed Khel,3
+27,AF0305,Jabal Saraj,3
+28,AF0306,Salang,3
+29,AF0307,Ghorband,3
+30,AF0308,Koh-e-Safi,3
+31,AF0309,Surkh-e-Parsa,3
+32,AF0310,Shekh Ali,3
+33,AF0401,Maydan Shahr,4
+34,AF0402,Nerkh,4
+35,AF0403,Jalrez,4
+36,AF0404,Chak-e-Wardak,4
+37,AF0405,Saydabad,4
+38,AF0406,Daymirdad,4
+39,AF0407,Hesa-e-Awal-e-Behsud,4
+40,AF0408,Jaghatu,4
+41,AF0409,Markaz-e-Behsud,4
+42,AF0501,Pul-e-Alam,5
+43,AF0502,Baraki Barak,5
+44,AF0503,Charkh,5
+45,AF0504,Khoshi,5
+46,AF0505,Mohammad Agha,5
+47,AF0506,Kharwar,5
+48,AF0507,Azra,5
+49,AF0601,Jalalabad,6
+50,AF0602,Behsud,6
+51,AF0603,Surkh Rod,6
+52,AF0604,Chaparhar,6
+53,AF0605,Kama,6
+54,AF0606,Kuz Kunar,6
+55,AF0607,Rodat,6
+56,AF0608,Khogyani,6
+57,AF0609,Bati Kot,6
+58,AF0610,Deh Bala,6
+59,AF0611,Pachir Wa Agam,6
+60,AF0612,Dara-e-Nur,6
+61,AF0613,Kot,6
+62,AF0614,Goshta,6
+63,AF0615,Achin,6
+64,AF0616,Shinwar,6
+65,AF0617,Muhmand Dara,6
+66,AF0618,Lalpur,6
+67,AF0619,Sherzad,6
+68,AF0620,Nazyan,6
+69,AF0621,Hesarak,6
+70,AF0622,Dur Baba,6
+71,AF0701,Mehtarlam,7
+72,AF0702,Qarghayi,7
+73,AF0703,Alishang,7
+74,AF0704,Alingar,7
+75,AF0705,Dawlatshah,7
+76,AF0801,Bazarak,8
+77,AF0802,Rukha,8
+78,AF0803,Dara,8
+79,AF0804,Khenj,8
+80,AF0805,Anawa,8
+81,AF0806,Shutul,8
+82,AF0807,Paryan,8
+83,AF0901,Pul-e-Khumri,9
+84,AF0902,Dahana-e-Ghori,9
+85,AF0903,Doshi,9
+86,AF0904,Nahrin,9
+87,AF0905,Baghlan-e-Jadid,9
+88,AF0906,Khinjan,9
+89,AF0907,Andarab,9
+90,AF0908,Deh Salah,9
+91,AF0909,Khwaja Hejran,9
+92,AF0910,Burka,9
+93,AF0911,Tala Wa Barfak,9
+94,AF0912,Pul-e-Hisar,9
+95,AF0913,Khost Wa Fereng,9
+96,AF0914,Guzargah-e-Nur,9
+97,AF0915,Fereng Wa Gharu,9
+98,AF1001,Bamyan,10
+99,AF1002,Shibar,10
+100,AF1003,Sayghan,10
+101,AF1004,Kahmard,10
+102,AF1005,Yakawlang,10
+103,AF1006,Panjab,10
+104,AF1007,Waras,10
+105,AF1101,Ghazni,11
+106,AF1102,Wal-e-Muhammad-e-Shahid,11
+107,AF1103,Khwaja Umari,11
+108,AF1104,Waghaz,11
+109,AF1105,Deh Yak,11
+110,AF1106,Jaghatu,11
+111,AF1107,Andar,11
+112,AF1108,Zanakhan,11
+113,AF1109,Rashidan,11
+114,AF1110,Nawur,11
+115,AF1111,Qarabagh,11
+116,AF1112,Giro,11
+117,AF1113,Ab Band,11
+118,AF1114,Jaghuri,11
+119,AF1115,Muqur,11
+120,AF1116,Malistan,11
+121,AF1117,Gelan,11
+122,AF1118,Ajristan,11
+123,AF1119,Nawa,11
+124,AF1201,Sharan,12
+125,AF1202,Mata Khan,12
+126,AF1203,Yosuf Khel,12
+127,AF1204,Yahya Khel,12
+128,AF1205,Sar Rawzah,12
+129,AF1206,Omna,12
+130,AF1207,Zarghun Shahr,12
+131,AF1208,Gomal,12
+132,AF1209,Jani Khel,12
+133,AF1210,Sarobi,12
+134,AF1211,Urgun,12
+135,AF1212,Ziruk,12
+136,AF1213,Nika,12
+137,AF1214,Barmal,12
+138,AF1215,Giyan,12
+139,AF1216,Dila,12
+140,AF1217,Wazakhah,12
+141,AF1218,Wormamay,12
+142,AF1219,Turwo,12
+143,AF1301,Gardez,13
+144,AF1302,Ahmadaba,13
+145,AF1303,Zurmat,13
+146,AF1304,Shawak,13
+147,AF1305,Zadran,13
+148,AF1306,Sayed Karam,13
+149,AF1307,Jaji,13
+150,AF1308,Lija Ahmad Khel,13
+151,AF1309,Jani Khel,13
+152,AF1310,Chamkani,13
+153,AF1311,Dand Wa Patan,13
+154,AF1401,Matun,14
+155,AF1402,Mandozayi,14
+156,AF1403,Gurbuz,14
+157,AF1404,Tani,14
+158,AF1405,Musa Khel,14
+159,AF1406,Nadir Shah Kot,14
+160,AF1407,Sabari,14
+161,AF1408,Terezayi,14
+162,AF1409,Bak,14
+163,AF1410,Qalandar,14
+164,AF1411,Spera,14
+165,AF1412,Shamal,14
+166,AF1413,Jaji Maydan,14
+167,AF1501,Asad Abad,15
+168,AF1502,Marawara,15
+169,AF1503,Watapur,15
+170,AF1504,Narang,15
+171,AF1505,Sar Kani,15
+172,AF1506,Shigal,15
+173,AF1507,Dara-e-Pech,15
+174,AF1508,Bar Kunar,15
+175,AF1509,Chawkay,15
+176,AF1510,Khas Kunar,15
+177,AF1511,Ghazi Abad,15
+178,AF1512,Dangam,15
+179,AF1513,Chapa Dara,15
+180,AF1514,Nurgal,15
+181,AF1515,Nari,15
+182,AF1601,Parun,16
+183,AF1602,Waygal,16
+184,AF1603,Wama,16
+185,AF1604,Nurgaram,16
+186,AF1605,Duab,16
+187,AF1606,Kamdesh,16
+188,AF1607,Mandol,16
+189,AF1608,Barg-e-Matal,16
+190,AF1701,Fayzabad,17
+191,AF1702,Argo,17
+192,AF1703,Arghanj Khwah,17
+193,AF1704,Yaftal-e-Sufla,17
+194,AF1705,Khash,17
+195,AF1706,Baharak,17
+196,AF1707,Darayem,17
+197,AF1708,Kohestan,17
+198,AF1709,Yawan,17
+199,AF1710,Jorm,17
+200,AF1711,Teshkan,17
+201,AF1712,Shuhada,17
+202,AF1713,Shahr-e-Buzorg,17
+203,AF1714,Raghestan,17
+204,AF1715,Keshem,17
+205,AF1716,Warduj,17
+206,AF1717,Tagab,17
+207,AF1718,Yamgan,17
+208,AF1719,Shighnan,17
+209,AF1720,Khwahan,17
+210,AF1721,Kofab,17
+211,AF1722,Darwaz-e-Balla,17
+212,AF1723,Eshkashem,17
+213,AF1724,Shaki,17
+214,AF1725,Zebak,17
+215,AF1726,Koran Wa Monjan,17
+216,AF1727,Darwaz,17
+217,AF1728,Wakhan,17
+218,AF1801,Taloqan,18
+219,AF1802,Hazar Sumuch,18
+220,AF1803,Baharak,18
+221,AF1804,Bangi,18
+222,AF1805,Chal,18
+223,AF1806,Namak Ab,18
+224,AF1807,Kalafgan,18
+225,AF1808,Farkhar,18
+226,AF1809,Khwaja Ghar,18
+227,AF1810,Rostaq,18
+228,AF1811,Eshkmesh,18
+229,AF1812,Dasht-e-Qala,18
+230,AF1813,Warsaj,18
+231,AF1814,Khwaja Bahawuddin,18
+232,AF1815,Darqad,18
+233,AF1816,Chahab,18
+234,AF1817,Yangi Qala,18
+235,AF1901,Kunduz,19
+236,AF1902,Chahar Darah,19
+237,AF1903,Ali Abad,19
+238,AF1904,Khan Abad,19
+239,AF1905,Imam Sahib,19
+240,AF1906,Dasht-e-Archi,19
+241,AF1907,Qala-e-Zal,19
+242,AF2001,Aybak,20
+243,AF2002,Hazrat-e-Sultan,20
+244,AF2003,Khuram Wa Sarbagh,20
+245,AF2004,Feroz Nakhchir,20
+246,AF2005,Ruy-e-Duab,20
+247,AF2006,Dara-e-Suf-e-Payin,20
+248,AF2007,Dara-e-Suf-e-Bala,20
+249,AF2101,Mazar-e-Sharif,21
+250,AF2102,Nahr-e-Shahi,21
+251,AF2103,Dehdadi,21
+252,AF2104,Charkent,21
+253,AF2105,Marmul,21
+254,AF2106,Balkh,21
+255,AF2107,Sholgareh,21
+256,AF2108,Chemtal,21
+257,AF2109,Dawlatabad,21
+258,AF2110,Khulm,21
+259,AF2111,Char Bolak,21
+260,AF2112,Shortepa,21
+261,AF2113,Kaldar,21
+262,AF2114,Keshendeh,21
+263,AF2115,Zari,21
+264,AF2116,Sharak-e-Hayratan,21
+265,AF2201,Sar-e-Pul,22
+266,AF2202,Sayad,22
+267,AF2203,Kohestanat,22
+268,AF2204,Sozmaqala,22
+269,AF2205,Sancharak,22
+270,AF2206,Gosfandi,22
+271,AF2207,Balkhab,22
+272,AF2301,Feroz Koh,23
+273,AF2302,DoLayna,23
+274,AF2303,Dawlatyar,23
+275,AF2304,Charsadra,23
+276,AF2305,Pasaband,23
+277,AF2306,Shahrak,23
+278,AF2307,Lal Wa Sarjangal,23
+279,AF2308,Taywarah,23
+280,AF2309,Tolak,23
+281,AF2310,Saghar,23
+282,AF2401,Nili,24
+283,AF2402,Shahrestan,24
+284,AF2403,Ashtarlay,24
+285,AF2404,Khadir,24
+286,AF2405,Kiti,24
+287,AF2406,Miramor,24
+288,AF2407,Sang-e-Takht,24
+289,AF2408,Kajran,24
+290,AF2409,Patoo,24
+291,AF2501,Tirinkot,25
+292,AF2502,Dehrawud,25
+293,AF2503,Chora,25
+294,AF2504,Shahid-e-Hassas,25
+295,AF2505,Khas Uruzgan,25
+296,AF2507,Gizab,25
+297,AF2601,Qalat,26
+298,AF2602,Tarnak Wa Jaldak,26
+299,AF2603,Shinkay,26
+300,AF2604,Mizan,26
+301,AF2606,Shah Joi,26
+302,AF2607,Daychopan,26
+303,AF2608,Atghar,26
+304,AF2609,Nawbahar,26
+305,AF2610,Shamul Zayi,26
+306,AF2611,Kakar,26
+307,AF2701,Kandahar,27
+308,AF2702,Arghandab,27
+309,AF2703,Daman,27
+310,AF2704,Panjwayi,27
+311,AF2705,Zheray,27
+312,AF2706,Shah Wali Kot,27
+313,AF2707,Khakrez,27
+314,AF2708,Arghestan,27
+315,AF2709,Ghorak,27
+316,AF2710,Maywand,27
+317,AF2711,Spin Boldak,27
+318,AF2712,Nesh,27
+319,AF2713,Miyanshin,27
+320,AF2714,Shorabak,27
+321,AF2715,Maruf,27
+322,AF2716,Reg,27
+323,AF2801,Shiberghan,28
+324,AF2802,Khwaja Dukoh,28
+325,AF2803,Khanaqa,28
+326,AF2804,Mingajik,28
+327,AF2805,Qush Tepa,28
+328,AF2806,Khamyab,28
+329,AF2807,Aqcha,28
+330,AF2808,Fayzabad,28
+331,AF2809,Mardyan,28
+332,AF2810,Qarqin,28
+333,AF2811,Darzab,28
+334,AF2901,Maymana,29
+335,AF2902,Pashtun Kot,29
+336,AF2903,Khwaja Sabz Posh,29
+337,AF2904,Almar,29
+338,AF2905,Bilcheragh,29
+339,AF2906,Shirin Tagab,29
+340,AF2907,Qaysar,29
+341,AF2908,Garzewan,29
+342,AF2909,Dawlat Abad,29
+343,AF2911,Qaram Qul,29
+344,AF2912,Qurghan,29
+345,AF2913,Andkhoy,29
+346,AF2914,Khan-e-Char Bagh,29
+347,AF3001,Lashkargah,30
+348,AF3002,Nad-e-Ali,30
+349,AF3003,Nawa-e-Barakzaiy,30
+350,AF3004,Nahr-e-Saraj,30
+351,AF3005,Washer,30
+352,AF3006,Garmser,30
+353,AF3007,Nawzad,30
+354,AF3008,Sangin,30
+355,AF3009,Musa Qala,30
+356,AF3010,Kajaki,30
+357,AF3012,Baghran,30
+358,AF3101,Qala-e-Naw,31
+359,AF3102,Ab Kamari,31
+360,AF3103,Muqur,31
+361,AF3104,Qadis,31
+362,AF3105,Bala Murghab,31
+363,AF3106,Jawand,31
+364,AF3201,Herat,32
+365,AF3202,Injil,32
+366,AF3203,Guzara,32
+367,AF3204,Karukh,32
+368,AF3205,Zindajan,32
+369,AF3206,Pashtun Zarghun,32
+370,AF3207,Kushk,32
+371,AF3208,Gulran,32
+372,AF3209,Adraskan,32
+373,AF3210,Kushk-e-Kuhna,32
+374,AF3211,Ghoryan,32
+375,AF3212,Obe,32
+376,AF3213,Kohsan,32
+377,AF3214,Shindand,32
+378,AF3216,Chisht-e-Sharif,32
+379,AF3301,Farah,33
+380,AF3302,Pushtrod,33
+381,AF3303,Khak-e-Safed,33
+382,AF3304,Qala-e-Kah,33
+383,AF3305,Shibkoh,33
+384,AF3306,Bala Buluk,33
+385,AF3307,Anar Dara,33
+386,AF3308,Bakwa,33
+387,AF3309,Lash-e-Juwayn,33
+388,AF3310,Gulistan,33
+389,AF3311,Pur Chaman,33
+390,AF3401,Zaranj,34
+391,AF3402,Kang,34
+392,AF3403,Chakhansur,34
+393,AF3404,Char Burjak,34
+394,AF3405,Khashrod,34
