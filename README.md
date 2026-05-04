@@ -1,11 +1,11 @@
-# 🇦🇫 Afghanistan CBNA — SQL Portfolio Project
+# 🇦🇫 Afghanistan CBNA — SQL Project
 
 > **A humanitarian data analysis project built entirely in SQL**  
 > Tracking displacement, security, and aid delivery across 10,802 Afghan settlements over six survey rounds (2020–2022)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project transforms the **Afghanistan Community-Based Needs Assessment (CBNA)** dataset — collected by the REACH Initiative and UNHCR — into a fully normalised relational database and analyses it using SQL. The raw data was originally processed in Excel across six separate rounds; this project replicates and extends that analysis using pure SQL.
 
@@ -17,7 +17,7 @@ This project transforms the **Afghanistan Community-Based Needs Assessment (CBNA
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 afghanistan_cbna_sql/
@@ -41,7 +41,7 @@ afghanistan_cbna_sql/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 The raw flat file (42 columns × 64,812 rows) was normalised into **5 tables** following 3NF principles:
 
@@ -76,7 +76,7 @@ round_period       host_population
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 | Metric | Finding |
 |---|---|
@@ -89,7 +89,7 @@ round_period       host_population
 
 ---
 
-## 🧰 SQL Techniques Demonstrated
+## SQL Techniques Demonstrated
 
 ### Foundations
 - Multi-table `JOIN` (3–4 tables per query)
@@ -122,7 +122,7 @@ round_period       host_population
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Option 1 — SQLite (Recommended, no install needed)
 
@@ -156,19 +156,14 @@ The schema and queries use standard SQL and are compatible with PostgreSQL and M
 
 ---
 
-## 📁 Data Source
+## Data Source
 
-**REACH Initiative / UNHCR** — Afghanistan Community-Based Needs Assessment (CBNA)  
+**IOM / UNHCR** — Afghanistan Community-Based Needs Assessment (CBNA)  
 - Rounds 10–16 collected Jun 2020 – 2022
 - Covers all 34 provinces, 388+ districts, 10,802 assessed settlements
 - Indicators: displacement, security, health, education, humanitarian aid
 
----
 
-## 👤 Author
-
-Built as a SQL portfolio project demonstrating end-to-end data pipeline skills:
-raw humanitarian data → normalised schema → exploratory analysis → advanced analytics → reusable reporting views.
 
 ---
 
