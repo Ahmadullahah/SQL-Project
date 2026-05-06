@@ -9,7 +9,7 @@
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 1 — Basic JOIN + Aggregation
+--    QUERY 1 — Basic JOIN + Aggregation
 --    "Which provinces had the highest total IDP arrivals in the last round?"
 -- ════════════════════════════════════════════════════════════════════════════
 SELECT
@@ -28,7 +28,7 @@ LIMIT 10;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 2 — CASE WHEN + Conditional Aggregation
+--    QUERY 2 — CASE WHEN + Conditional Aggregation
 --    "Classify each province by aid coverage level"
 -- ════════════════════════════════════════════════════════════════════════════
 SELECT
@@ -49,7 +49,7 @@ ORDER BY aid_coverage_pct DESC;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 3 — Subquery + HAVING
+--    QUERY 3 — Subquery + HAVING
 --    "Districts that ALWAYS had humanitarian aid delivered (all 6 rounds)"
 -- ════════════════════════════════════════════════════════════════════════════
 SELECT
@@ -68,7 +68,7 @@ ORDER BY settlements DESC;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 4 — CTE + Window Function (LAG)
+--    QUERY 4 — CTE + Window Function (LAG)
 --    "Which settlements saw the biggest IDP surge between rounds 4 and 5?"
 --     (i.e. the Taliban takeover period: Jun → Dec 2021)
 -- ════════════════════════════════════════════════════════════════════════════
@@ -100,7 +100,7 @@ LIMIT 15;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 5 — Multi-CTE + RANK()
+--    QUERY 5 — Multi-CTE + RANK()
 --    "Rank provinces by vulnerability on three dimensions simultaneously"
 -- ════════════════════════════════════════════════════════════════════════════
 WITH metrics AS (
@@ -133,7 +133,7 @@ LIMIT 15;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 6 — Difference-in-Differences (DiD)
+--    QUERY 6 — Difference-in-Differences (DiD)
 --    "Did humanitarian intervention reduce IDP arrivals?"
 -- ════════════════════════════════════════════════════════════════════════════
 WITH group_means AS (
@@ -172,7 +172,7 @@ SELECT '──── DiD Estimator ────',
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 7 — View Usage + Filtering
+--    QUERY 7 — View Usage + Filtering
 --    "Pull the national dashboard and flag rounds with declining school access"
 -- ════════════════════════════════════════════════════════════════════════════
 SELECT
@@ -195,7 +195,7 @@ ORDER BY round_id;
 
 
 -- ════════════════════════════════════════════════════════════════════════════
--- 🔍 QUERY 8 — Geospatial Bounding Box Filter
+--    QUERY 8 — Geospatial Bounding Box Filter
 --    "Settlements in the northern region (lat > 36°N)"
 -- ════════════════════════════════════════════════════════════════════════════
 SELECT
