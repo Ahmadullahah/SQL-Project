@@ -1,8 +1,8 @@
 -- =============================================================================
 -- Afghanistan CBNA (Community-Based Needs Assessment) SQL Project
 -- Schema: Table Definitions & Constraints
--- Author: Portfolio Project
--- Data Source: REACH Initiative / UNHCR Afghanistan CBNA Dataset
+-- Author: Ahmadullah Ahmadzai
+-- Data Source: IOM Afghanistan CBNA Dataset
 --              Rounds 10–16 (Jun 2020 – 2022)
 -- =============================================================================
 
