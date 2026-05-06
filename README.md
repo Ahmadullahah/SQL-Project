@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project transforms the **Afghanistan Community-Based Needs Assessment (CBNA)** dataset — collected by the REACH Initiative and UNHCR — into a fully normalised relational database and analyses it using SQL. The raw data was originally processed in Excel across six separate rounds; this project replicates and extends that analysis using pure SQL.
+This project transforms the **Afghanistan Community-Based Needs Assessment (CBNA)** dataset — collected by the International Organization for Migration(IOM) into a fully normalised relational database and analyses it using SQL. The raw data was originally processed in Excel across six separate rounds; this project replicates and extends that analysis using pure SQL.
 
 ### What the data covers
 - **10,802 settlements** monitored across all 34 Afghan provinces
@@ -158,13 +158,9 @@ The schema and queries use standard SQL and are compatible with PostgreSQL and M
 
 ## Data Source
 
-**IOM / UNHCR** — Afghanistan Community-Based Needs Assessment (CBNA)  
+**International Organization for Migration (IOM)** — Afghanistan Community-Based Needs Assessment (CBNA)  
 - Rounds 10–16 collected Jun 2020 – 2022
 - Covers all 34 provinces, 388+ districts, 10,802 assessed settlements
 - Indicators: displacement, security, health, education, humanitarian aid
 
 
-
----
-
-*Tools used: SQLite · Python (pandas, openpyxl) for schema extraction · DB Browser for SQLite*
