@@ -1,4 +1,4 @@
-# 🇦🇫 Afghanistan CBNA — SQL Project
+# IOM's CBNA dataset cleaning and analysis — SQL Project
 
 > **A humanitarian data analysis project built entirely in SQL**  
 > Tracking displacement, security, and aid delivery across 10,802 Afghan settlements over six survey rounds (2020–2022)
